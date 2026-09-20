@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d3904f171f1f2df0d132db55",
+  "owner": "xepers",
+  "repo": "page-362c2f50d0751dbe3b77bc2b",
+  "title": "奶瓶(Nerwo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "362c2f50d0751dbe3b77bc2b",
+      "a": "奶瓶(Nerwo)",
+      "b": "2027最新官网",
+      "entity": "奶瓶(Nerwo)",
+      "brand": "奶瓶(Nerwo)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0030f5c32011260e4c9ed5d147108b9faee1ca2c239718aa527024a4b8846641",
+      "content": {
+        "primary_entity": "奶瓶(Nerwo)",
+        "keyword1": "奶瓶(Nerwo)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 与路由器各有对应客户端。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先梳理常用设备与月流量，再对照三档套餐订阅。",
+          "AI_CLOSING_TITLE": "选对套餐即刻连接",
+          "AI_DESCRIPTION": "，它提供基础版、旗舰版与团队版三档订阅，分别覆盖 100GB、300GB 与 1000GB 月流量，设备数从 3 台到 20 台，年付可省约两个月费用。节点侧重流媒体解锁与 IPLC 专线，适合多端用户按设备数量与带宽需求选择，订阅后导入客户端即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个角度快速定位套餐。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台，设备越多选越高档。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线与原生流媒体解锁，适合游戏和 4K 播放。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付约十个月价格，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "套餐阶梯清晰",
+          "AI_FEATURE_TITLE_2": "线路按需匹配",
+          "AI_FEATURE_TITLE_3": "周期自由切换",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到开始连接的流程。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "奶瓶(Nerwo)提供基础版、旗舰版与团队版三档海外加速订阅，月流量从 100GB 到 1000GB，设备数覆盖 3 台至 20 台，旗舰版与团队版主打流媒体解锁和 IPLC 专线。",
+          "AI_HERO_SUBTITLE": "多端兼容的海外加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "最高 1000GB 月流量",
+          "AI_HIGHLIGHT_3": "年付约省两个月费用",
+          "AI_PLANS_INTRO": "三档套餐按流量、设备数与线路区分，先确认常用设备数量和月均流量，再对照价格与年付优惠做选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认日常在线设备数与月均流量，据此锁定套餐档位。",
+          "AI_STEP_TEXT_2": "核对所选套餐支持的系统设备数量与线路类型，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "按所选系统客户端说明导入订阅信息，即可在设备上开始使用。",
+          "AI_STEP_TITLE_1": "确认需求",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "奶瓶(Nerwo) 海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "奶瓶(Nerwo) 三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "按每月流量和同时在线设备数选择。基础版适合 1-2 人日常使用，旗舰版适合有流媒体和游戏加速需求的用户，团队版适合 20 台以内设备的团队协作场景。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时连接几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量可能导致新设备无法连接，可升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150 相当于每月约 ¥12.5，旗舰版年付 ¥350 约每月 ¥29，团队版年付 ¥850 约每月 ¥71，均低于对应月付价格。",
+          "AI_FAQ_QUESTION_4": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到订阅或配置导入选项，按文档说明粘贴订阅链接或配置文件，保存后更新节点列表即可使用。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量达到套餐上限后，连接可能被暂停或限速，具体处理方式取决于所选套餐；可在周期结束后恢复，或提前升级到更高流量档位。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cdspgw.cn",
+    "host": "cdspgw.cn"
+  },
+  "file_hashes": {
+    "index.html": "60f8e4a47b399b6db67d6ed1ded820fad727eb371ae3b82a7cb7d909a932bbc1",
+    "sitemap.xml": "ed5741374ea374090c5d4d2d24c9cb8cdc808fc1bceb5fa61e511927c470a289",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "49b27b1291702a5b1daab000b01bb3b0d736ddb0b84da6a3c7c1a4c4369a16d1",
+    "robots.txt": "94574b6b9ce30a274f5ff6fe3bbf3791f85774bcbcf6802380cca9d12386052e",
+    "ef3f8ebc90bbd3fbd788949ac1134916.txt": "5e3dd2529371fa2b83fea78712926ac160d07e6bcaeb18008e29a118abfa1c5b"
+  },
+  "revision": "826a948442adf805210df489e01fed69dde830999fdc2976f0b47d186d8692aa"
+}
